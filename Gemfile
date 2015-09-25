@@ -13,6 +13,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'paperclip', '~> 4.3.1'
 gem "mini_magick"
+gem 'masonry-rails', '~> 0.2.4'
 gem 'devise', '~> 3.5.2'
 gem 'haml', '~> 4.0.7'
 gem 'bootstrap-sass', '~> 3.3.5'
